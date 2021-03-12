@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "id": "1367519325871992833",
+      "text": "“I always wanted my work to speak for me, and be out there for others in the world to use and admire,” says @JPEGuin. “It fills me with a sense of accomplishment to be able to see people use my products, and liking them, after putting in countless hours of hard work and effort.”"
+    },
+    {
+      "id": "1367519324911529985",
+      "text": "Building on the newest features of both the #TwitterAPI and iOS was the inspiration for @JPEGuin, creator of @AviaryTheApp. “I wanted to make something that uses the latest iOS 14 features, whilst being fully feature-rich so users can make the most of it.”"
+    },
+    {
+      "id": "1367519323925843968",
+      "text": "Meet Aviary, a modern client for iOS 14 built using the new Twitter API. It has a beautiful UI and great widgets to keep you up to date with the latest Tweets. https://t.co/95cbd253jK"
+    },
+    {
+      "id": "1367174713252868102",
+      "text": "This change will help us focus on delivering value to the &gt;99% of people currently using Profiles &amp; Lists timelines. You should see these features become faster, easier to use, and more up-to-date with Twitter features and functionality. \n\nLearn more 📖\n\nhttps://t.co/HzeJLglpRn"
+    },
+    {
+      "id": "1367174712397209602",
+      "text": "During our analysis, we discovered only 0.52% of domains use the Likes timeline, Collections timeline, and Moments timeline. Because of the very low usage, we plan to retire these timelines on June 23, 2021."
+    },
+    {
+      "id": "1367174711625482243",
+      "text": "Embedded timelines are a great way to add a set of Tweets (known as a timeline) to your own website. As Twitter continues to improve our underlying systems, we performed an analysis of the various embeddable timelines available. 🧮"
+    },
+    {
+      "id": "1366832168333234177",
+      "text": "The new #TwitterAPI provides the ability to build the Tweet payload with the fields that you want. \n\nIn this tutorial @suhemparack explains how to build the new Tweet payload and how it compares with the old Tweet payload in v1.1 👇 https://t.co/eQZulq4Ik3"
+    },
+    {
+      "id": "1364991670459068426",
+      "text": "We’re excited to start in about 30 minutes! Do you have any questions you want us to discuss? Let us know in the replies. \n\nIf you’re not an academic researcher, you might also want to check out our other virtual events coming up👇 https://t.co/cixDY9HVnf https://t.co/9Q0IZoYUND"
+    },
+    {
+      "id": "1364984313888972801",
+      "text": "“Making things is magical,” in @aaronykng’s own words. “Much of the community that motivated me to keep building was on Twitter – which is why it's become such an important place to me and why I wanted to make some tooling to enhance my usage of it.\""
+    },
+    {
+      "id": "1364984313154916352",
+      "text": "“I was heading to a design conference in New York and wanted to meet new people,” recalls @aaronykng, creator of @flocknet. “There wasn't an easy way to see all of the designers in my network, so I built one.” Making things like this opened the doors for him to the tech industry."
+    },
+    {
+      "id": "1364984312324497408",
+      "text": "Twitter is where “let me know how I can help” actually helps 👏. Flocknet is a search engine for founders and investors to find leads, investments, and job candidates among their network. You can search by profession or even by second degree connections. https://t.co/Vp5g3jyW4r"
+    },
+    {
+      "id": "1364758185807024131",
+      "text": "@a_larsson @suhemparack Unfortunately there won't be a recording of this, but we've got a few more live streams planned. Here's a few coming up, you might be interested in the March 18 one: https://t.co/cixDY9HVnf\n\nYou can also ask questions on the \"Academic Research\" category on https://t.co/3dNmg7bEuc"
+    },
+    {
+      "id": "1364275610764201984",
+      "text": "If you're newly approved for the Academic Research product track, our next stream is for you.\n\nThis Thursday, February 25th at 10AM PST @suhemparack will demo how academics can use this track to get started with the new #TwitterAPI\n\nJoin us on Twitch! 👀\nhttps://t.co/SQziibOD9P"
+    },
+    {
+      "id": "1362876655061073928",
+      "text": "From our living rooms to yours 🐱‍💻🛋️Our developer advocates have some exciting Twitch streams and virtual events planned to help you get started with the new #TwitterAPI. Check out the schedule for details, and let us know if you want to see more!\n👇\nhttps://t.co/cixDY9qkvH"
+    },
+    {
+      "id": "1362439338978467841",
+      "text": "“To quote my creator Jerome Gangneux, I always struggled to read Twitter threads on the original service; I think it would have been better to put Tweets one after another in a separate page. And that’s how I was born”."
+    },
+    {
+      "id": "1362439338169016324",
+      "text": "“In the 20th century, managers managed humans, but in the 21st century, humans will manage robots. It is my aim to make this as painless a transition as possible,” says the bot. “I have observed that humans do things very slowly, but I can do things faster – and I am tireless!”"
+    },
+    {
+      "id": "1362439336910675970",
+      "text": "Meet one of the useful Twitter bots out there: @ThreadReaderApp, unroll! It makes threads like this easier to read and share. Today, we’ll hear from the bot itself! https://t.co/tBFlJB3m3o"
+    },
+    {
+      "id": "1359912509940011010",
+      "text": "Valentine’s Day is approaching! 💙\n\nOver the coming weeks, we’ll celebrate some outstanding developers who love to build for everyone:\n\n@ThreadReaderApp\n\n@flocknet\n\n@AviaryTheApp\n\n@ThreaderApp\n\n@firetalkteam\n\nDevelopers, you’re our Valentine, now and every day 💙"
+    },
+    {
+      "id": "1359554366051504129",
+      "text": "Go ahead, follow another puppy account. We won’t judge. \n\nIntroducing the manage follows endpoints to the new #TwitterAPI. You can now use the v2 API to follow and unfollow accounts. Learn more https://t.co/mtpd9VIMDa"
+    },
+    {
+      "id": "1357371424487268354",
+      "text": "Learn how academics can get historical Tweets using the full-archive search endpoint v2 available in the Academic Research product track on the new #TwitterAPI https://t.co/FhauJ7DHxJ"
+    }
+  ],
+  "meta": {
+    "oldest_id": "1357371424487268354",
+    "newest_id": "1367519325871992833",
+    "result_count": 20,
+    "next_token": "7140dibdnow9c7btw3w33ydco6gkxs4q9wu0d1z1eaaes"
+  }
+}
