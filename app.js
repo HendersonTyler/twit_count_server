@@ -1,7 +1,10 @@
 require("dotenv").config();
 const express = require("express");
+const cors = require("cors");
 const app = express();
-const port = 3000;
+const port = 5000;
+
+app.use(cors());
 
 const wordCloud = require("./components/wordCloud.js");
 const getTweets = require("./components/getTweets.js");
@@ -13,11 +16,17 @@ app.get("/", (req, res) => {
 
 app.get("/user/:user", async (req, res) => {
   try {
+    console.log(req.params.user);
     let tweets = await getTweets(req.params.user);
-    //   console.log(tweets);
-    let wordCloudData = await wordCloud(tweets);
-    let sentimentResults = await sentiment(tweets);
-    const combinedResults = wordCloudData.concat(sentimentResults);
+    let wordCloudData = await wordCloud(tweets.tweetList);
+    let sentimentResults = await sentiment(tweets.tweetList);
+    const combinedResults = {
+      cloud: wordCloudData,
+      sentiment: sentimentResults,
+      profileImage: tweets.profileImage,
+      name: tweets.name,
+    };
+
     res.send(combinedResults);
   } catch (error) {
     console.log(error);
