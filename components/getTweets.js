@@ -24,6 +24,7 @@ async function getTweets(userName) {
     };
   } catch (error) {
     console.log(error);
+    return "error";
   }
 }
 

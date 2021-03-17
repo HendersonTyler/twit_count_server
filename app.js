@@ -30,6 +30,7 @@ app.get("/user/:user", async (req, res) => {
     res.send(combinedResults);
   } catch (error) {
     console.log(error);
+    res.send("error");
   }
 });
 
