@@ -25,6 +25,7 @@ app.get("/user/:user", async (req, res) => {
       sentiment: sentimentResults,
       profileImage: tweets.profileImage,
       name: tweets.name,
+      description: tweets.description,
     };
 
     res.send(combinedResults);

@@ -10,7 +10,7 @@ async function getTweets(userName) {
     let userID = await client.get("users/by", {
       usernames: userName,
       user: {
-        fields: ["profile_image_url"],
+        fields: ["profile_image_url", "description"],
       },
     });
     // Get user tweets
@@ -21,6 +21,7 @@ async function getTweets(userName) {
       tweetList: tweets,
       profileImage: userID.data[0].profile_image_url,
       name: userID.data[0].name,
+      description: userID.data[0].description,
     };
   } catch (error) {
     console.log(error);
