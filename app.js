@@ -10,7 +10,7 @@ app.use(express.static("client/build"));
 
 const wordCloud = require("./components/wordCloud.js");
 const getTweets = require("./components/getTweets.js");
-const sentiment = require("./components/Sentiment.js");
+const sentiment = require("./components/sentiment.js");
 
 app.get("/user/:user", async (req, res) => {
   try {
