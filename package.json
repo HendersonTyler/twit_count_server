@@ -9,7 +9,6 @@
     "client": "npm start --prefix client",
     "clientinstall": "npm install --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
-  }
   },
   "author": "",
   "license": "ISC",
